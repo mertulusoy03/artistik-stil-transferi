@@ -34,20 +34,10 @@ Colab ortamında geliştirilmiştir.
 
 ## Örnek Sonuçlar
 
-**İçerik Görseli**  
-![content](results/content.png)
+<img width="1489" height="543" alt="image" src="https://github.com/user-attachments/assets/fcf88eef-5560-40a8-82e1-1ca37fcd40cf" />
 
-**Stil Görseli**  
-![style](results/style.png)
-
-**Çıktı (Stil Transferi Sonucu)**  
-![result](results/result.png)
-
-_(Not: Kendi örnek görsellerini “results” klasörüne ekleyip burada gösterebilirsin.)_
 
 ## Lisans
 MIT
 
----
-
-Geliştirici: [Emin Ogultarhan](https://github.com/KULLANICIADIN)
+Gelistirici : mertulusoy
