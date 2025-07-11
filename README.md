@@ -36,6 +36,8 @@ Colab ortamında geliştirilmiştir.
 
 <img width="1489" height="543" alt="image" src="https://github.com/user-attachments/assets/fcf88eef-5560-40a8-82e1-1ca37fcd40cf" />
 
+<img width="1789" height="515" alt="image" src="https://github.com/user-attachments/assets/1e470f4c-4c93-476a-b751-6734674b8cf9" />
+
 
 ## Lisans
 MIT
